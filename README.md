@@ -18,7 +18,7 @@ Este totem foi criado para alguém especial e oferece quatro interações princi
   Ao abrir a música "505" do Arctic Monkeys, trechos de uma frase são revelados progressivamente na tela com cada clique.
 
 - 💬 **Informação**  
-  Curiosidades e pensamentos sobre psicologia ou fatos históricos são revelados aos poucos, como se fossem pedaços de um devaneio.
+  Curiosidades e pensamentos sobre a relação.
 
 ## 🧪 Tecnologias Utilizadas
 
@@ -28,23 +28,9 @@ Este totem foi criado para alguém especial e oferece quatro interações princi
 - `java.time.*` (para manipulação de datas)  
 - Abertura de links com `Desktop.getDesktop().browse(...)`
 
-## 🚀 Como Executar
-
-1. Clone este repositório ou copie o arquivo `.java`.  
-2. Abra em uma IDE Java (como IntelliJ IDEA, Eclipse ou NetBeans).  
-3. Execute o método `main()` da classe principal (`alguem`).  
-4. Digite o nome correto no login para acessar o menu.
-
 ## 💡 Inspiração
 
 Inspirado em emoções reais e na vontade de demonstrar carinho de forma diferente, o Totem da Nossa História mistura elementos de romantismo, tecnologia e criatividade.
-
-## 📌 Possíveis Melhorias
-
-- Interface mais moderna com JavaFX ou HTML+CSS+JS.  
-- Adicionar efeitos sonoros ou animações.  
-- Permitir personalizar os textos diretamente pela interface.  
-- Integração com banco de dados para salvar respostas ou memórias.
 
 ## 📝 Licença
 
